@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://yofii.github.io/sagar
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: sagar.poudel.5520
 #twitter: mytwitter
-instagram: myinstagram
+instagram: radioactive_sagar
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: paudelsagar
 # youtube: myyoutube
 # spotify: myspotify
-#github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ linkedin: mylinkedin
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: sagar.paudel1998@gmail.com
 
 authors:
   sagar:
