@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://yofii.github.io/sagar
+#url: https://yofii.github.io/sagar
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -41,8 +41,6 @@ instagram: radioactive_sagar
 linkedin: paudelsagar
 # youtube: myyoutube
 # spotify: myspotify
-# github: mygithub
-# gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
