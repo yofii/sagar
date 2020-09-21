@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-#url: https://yofii.github.io/sagar
+url: https://yofii.github.io/sagar
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -45,9 +45,9 @@ linkedin: paudelsagar
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-#quora: userquora
+# quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: sagar.paudel1998@gmail.com
@@ -115,8 +115,8 @@ plugins:
   - jekyll-admin
   - jekyll-paginate-v2
 
-#jekyll-mentions:
-  #base_url: https://github.com
+jekyll-mentions:
+  base_url: https://github.com
 
 compress_html:
   ignore:
